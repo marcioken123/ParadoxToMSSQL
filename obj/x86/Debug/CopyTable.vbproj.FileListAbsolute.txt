@@ -1,0 +1,9 @@
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\CopyTable\CopyTable\obj\x86\Debug\CopyTable.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\CopyTable\CopyTable\obj\x86\Debug\CopyTable.vbproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\CopyTable\CopyTable\bin\Debug\CopyTable.exe
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\CopyTable\CopyTable\bin\Debug\CopyTable.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\CopyTable\CopyTable\bin\Debug\CopyTable.xml
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\CopyTable\CopyTable\obj\x86\Debug\CopyTable.exe
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\CopyTable\CopyTable\obj\x86\Debug\CopyTable.xml
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\CopyTable\CopyTable\obj\x86\Debug\CopyTable.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\CopyTable\CopyTable\obj\x86\Debug\CopyTable.Form1.resources

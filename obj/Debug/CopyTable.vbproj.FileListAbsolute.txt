@@ -1,0 +1,22 @@
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\CopyTable\CopyTable\bin\Debug\CopyTable.exe
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\CopyTable\CopyTable\bin\Debug\CopyTable.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\CopyTable\CopyTable\obj\Debug\CopyTable.Form1.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\CopyTable\CopyTable\obj\Debug\CopyTable.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\CopyTable\CopyTable\obj\Debug\CopyTable.vbproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\CopyTable\CopyTable\obj\Debug\CopyTable.exe
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\CopyTable\CopyTable\obj\Debug\CopyTable.pdb
+C:\Users\80014379\Downloads\CopyTable\CopyTable\obj\Debug\CopyTable.exe
+C:\Users\80014379\Downloads\CopyTable\CopyTable\obj\Debug\CopyTable.pdb
+C:\Users\80014379\Downloads\CopyTable\CopyTable\bin\Debug\CopyTable.exe
+C:\Users\80014379\Downloads\CopyTable\CopyTable\bin\Debug\CopyTable.pdb
+C:\Users\80014379\Downloads\CopyTable\CopyTable\obj\Debug\CopyTable.Form1.resources
+C:\Users\80014379\Downloads\CopyTable\CopyTable\obj\Debug\CopyTable.Resources.resources
+C:\Users\80014379\Downloads\CopyTable\CopyTable\obj\Debug\CopyTable.vbproj.GenerateResource.Cache
+C:\Users\80014379\Desktop\RADS\CopyTable\CopyTable\bin\Debug\CopyTable.exe
+C:\Users\80014379\Desktop\RADS\CopyTable\CopyTable\bin\Debug\CopyTable.pdb
+C:\Users\80014379\Desktop\RADS\CopyTable\CopyTable\obj\Debug\CopyTable.Form1.resources
+C:\Users\80014379\Desktop\RADS\CopyTable\CopyTable\obj\Debug\CopyTable.Resources.resources
+C:\Users\80014379\Desktop\RADS\CopyTable\CopyTable\obj\Debug\CopyTable.vbproj.GenerateResource.Cache
+C:\Users\80014379\Desktop\RADS\CopyTable\CopyTable\obj\Debug\CopyTable.exe
+C:\Users\80014379\Desktop\RADS\CopyTable\CopyTable\obj\Debug\CopyTable.pdb
+C:\Users\80014379\Desktop\RADS\CopyTable\CopyTable\obj\Debug\CopyTable.RunSql.resources
